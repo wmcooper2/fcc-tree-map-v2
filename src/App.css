@@ -1,7 +1,7 @@
-#chartarea{
+#chartarea {
   display: flex;
   flex-direction: row;
-  padding-left:300px;
+  padding-left: 300px;
 }
 
 #title {
@@ -12,7 +12,7 @@
   text-align: center;
 }
 
-#legendtitle{
+#legendtitle {
   display: flex;
   flex-direction: column;
   justify-content: center;

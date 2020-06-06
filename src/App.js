@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import "./myd3.js";
+import "./myd3";
 
 function App() {
   return (
